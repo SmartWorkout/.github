@@ -1,1 +1,1 @@
-# .github
+# SmartWorkout - Gym Log Tracker
